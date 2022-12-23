@@ -1,0 +1,59 @@
+h1{
+  text-align: center;
+}
+.nav{
+  border:1px solid black;
+  height : 35px;
+  padding-top:10px;
+  background-color:rgb(244, 242, 242);
+}
+.set-nav{
+  text-align: center;
+}
+.nav-top{
+  margin-left:120px;
+  margin-right:80px;
+  font-size:larger;
+  border:1px solid rgb(243, 239, 239);
+  padding: 8px 25px;
+  background-color: rgb(225, 219, 219);
+}
+.abt{
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 100px;
+  width: 400px;
+  margin-top: 170px;
+  margin-left: 480px;
+  padding-top: 60px;
+  font-size: larger;
+  background-color: rgb(168, 172, 172);
+  color: white;
+}
+.contact{
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 100px;
+  width: 400px;
+  margin-top: 170px;
+  margin-left: 480px;
+  padding-top: 60px;
+  font-size: larger;
+  background-color: rgb(212, 209, 211);
+  color: white;
+}
+.home{
+  text-align: center;
+  border: 1px solid rgb(65, 22, 22);
+  border-radius: 10px;
+  height: 100px;
+  width: 400px;
+  margin-top: 170px;
+  margin-left: 480px;
+  padding-top: 60px;
+  font-size: larger;
+  background-color: rgb(187, 195, 197);
+  color: black;
+}
